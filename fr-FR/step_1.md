@@ -1,14 +1,14 @@
-The starter file has a library of useful images.
+Le fichier de démarrage contient une bibliothèque d'images utiles.
 
-Click on the 'Image gallery' icon.
+Clique sur l'icône 'Image gallery'.
 
-![A square shaped icon with a mountain scene and the sun show in the icon.](images/view-gallery.png)
+![Une icône carrée avec une scène de montagne avec le soleil qui apparaît dans l'icône.](images/view-gallery.png)
 
-Scroll through the image library and make a note of the file name of an image you would like to use in your webpage.
+Fais défiler la bibliothèque d'images et note le nom de fichier d'une image que tu aimerais utiliser dans ta page web.
 
-![The image library with love.png file shown.](images/editorimage-gallery.png)
+![La bibliothèque d'images avec le fichier love.png affiché.](images/editorimage-gallery.png)
 
-Add your image to the `<main></main>` in `index.html` so that it appears on your webpage.
+Ajoute ton image au `<main></main>` dans `index.html` pour qu'elle apparaisse sur ta page web.
 
 ## --- code ---
 
