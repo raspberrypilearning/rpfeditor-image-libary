@@ -1,14 +1,14 @@
-The starter file has a library of useful images.
+Het startbestand bevat een bibliotheek met nuttige afbeeldingen.
 
-Click on the 'Image gallery' icon.
+Klik op het 'Image gallery' pictogram.
 
-![A square shaped icon with a mountain scene and the sun show in the icon.](images/view-gallery.png)
+![Een vierkant pictogram met een bergtafereel en de zon in het pictogram.](images/view-gallery.png)
 
-Scroll through the image library and make a note of the file name of an image you would like to use in your webpage.
+Scroll door de afbeeldingsbibliotheek en noteer de bestandsnaam van een afbeelding die je wilt gebruiken op jouw webpagina.
 
-![The image library with love.png file shown.](images/editorimage-gallery.png)
+![De afbeeldingsbibliotheek met het love.png-bestand getoond.](images/editorimage-gallery.png)
 
-Add your image to the `<main></main>` in `index.html` so that it appears on your webpage.
+Voeg je afbeelding toe aan de `<main></main>` in `index.html` zodat deze op je webpagina verschijnt.
 
 ## --- code ---
 
